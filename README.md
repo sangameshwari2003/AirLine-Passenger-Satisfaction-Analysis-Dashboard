@@ -7,3 +7,5 @@ are the most significant measurement in-flight administration service quality. I
 advanced help quality. Online ticket booking is another measurement in back-office tasks. Moreover, the discoveries demonstrate that traveller’s fulfillment on premise ofthe services conveyed. In the intensely competitive environment, customer satisfactionhas become the key focus of airlines to help them retain existing customers and enhance
 opportunities of attracting new customers. The present study focuses on understandingthe importance of various attributes that impact passenger satisfaction based on online
 ratings .Results indicate that service and value for money attributes are the mostimportant factors influencing customer satisfaction in India. Further based on the type of passenger and type of airline, results vary significantly. 
+
+![dashboard1](https://github.com/user-attachments/assets/d8b71c86-52e3-4fe2-b905-5e7cdcf935ee)
