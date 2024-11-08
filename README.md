@@ -9,3 +9,6 @@ opportunities of attracting new customers. The present study focuses on understa
 ratings .Results indicate that service and value for money attributes are the mostimportant factors influencing customer satisfaction in India. Further based on the type of passenger and type of airline, results vary significantly. 
 
 ![dashboard1](https://github.com/user-attachments/assets/d8b71c86-52e3-4fe2-b905-5e7cdcf935ee)
+
+![image](https://github.com/user-attachments/assets/47a1829f-52c1-486a-8f4c-96b2345d9bde)
+
